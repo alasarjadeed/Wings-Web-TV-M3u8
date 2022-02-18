@@ -4,7 +4,7 @@
 Easy way to listen to music or radio stations, watch movies, series, animes, shows, porn or IPTV, read novel or manga books and play games on the website. 
 
 # Official
- [Demo](https://github.com/alasarjadeed/Wings-Web-TV-M3u8/)  
+ [Demo](https://wingstv.bahrainwings.com/)  
 
 # Sponsor
  [![Wings-Web-TV](images/buymecoffeesponsor.jpeg)](https://www.youtube.com/c/WORLDALASRTECHNOLOGY)
